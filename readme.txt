@@ -1,0 +1,1 @@
+this is just a trial website/app to test on github and phonegap.
